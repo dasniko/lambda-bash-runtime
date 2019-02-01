@@ -1,0 +1,9 @@
+{
+  "name": "lambda-bash-runtime",
+  "version": "1.0.0",
+  "devDependencies": {
+    "serverless-plugin-tracing": "^2.0.0"
+  },
+  "author": "Niko Köbler <niko@n-k.de> (http://www.n-k.de)",
+  "license": "MIT"
+}
